@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557254306 source:e:\c++\m7t1_johnson\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
