@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553190174 source:e:\c++\m5lab_johnson2\room.cpp
+	<iostream>
+	"room.h"
+
+1553190206 e:\c++\m5lab_johnson2\room.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554347580 source:c:\dev\codeblocks\projects\roomlinks\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"room.h"
+
+1554344967 source:c:\dev\codeblocks\projects\roomlinks\room.cpp
+	"room.h"
+
+1554345048 c:\dev\codeblocks\projects\roomlinks\room.h
+	<string>
+
